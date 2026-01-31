@@ -8,7 +8,7 @@ Di era konsumsi musik digital saat ini, platform streaming menghadapi tantangan 
 Masalah ini harus diselesaikan untuk mengatasi fenomena cold start pada lagu baru atau musik dari wilayah terpencil yang sulit mendapatkan rekomendasi karena belum memiliki riwayat putar, serta untuk memecah batasan popularitas (filter bubble) agar penemuan musik didasarkan pada karakteristik audio yang objektif. Dengan memanfaatkan fitur teknis seperti irama dan harmoni, sistem dapat menyajikan personalisasi yang lebih akurat sekaligus mendemokratisasi akses terhadap musik dari berbagai belahan dunia berdasarkan kemiripan "jiwa" audionya, bukan sekadar tren pasar atau lokasi geografis semata
 - Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
 Berikut hasil riset, referensi & authornya: Riset ini membahas penggunaan algoritma regresi dan klasifikasi untuk memetakan fitur audio ke koordinat bumi, yang menjadi dasar teknis mengapa fitur-fitur dalam dataset ini sangat efektif untuk sistem rekomendasi berbasis konten (Content-Based Filtering).
-Zhou, F., Q, C., & King, R. D. (2014). Predicting the Geographical Origin of Music. Dalam Proceedings of the 2014 IEEE International Conference on Data Mining (ICDM).
+(Zhou, F., Claire, Q., & King, R. D. (2014, December). Predicting the geographical origin of music. In 2014 IEEE International Conference on Data Mining (pp. 1115-1120). IEEE.)
 - Sumber yang digunakan [Scholar](https://scholar.google.com/)
 
 ## Business Understanding
