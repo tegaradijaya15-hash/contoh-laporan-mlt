@@ -142,6 +142,8 @@ Evaluasi Distribusi: Dengan melihat scatter plot koordinat, kita bisa mengevalua
 **---Ini adalah bagian akhir laporan---**
 
 _Catatan:_
+
 <img width="584" height="455" alt="kc" src="https://github.com/user-attachments/assets/736a2102-7fbc-4be1-ac7b-651ccd69902d" />
+
 Berikut ini penjelasan singkat pada gambar di atas:
 Gambar di atas membuktikan bahwa Sistem Rekomendasi Berbasis Konten ini bekerja secara efektif. Masalah "Geographical Origin of Music" diselesaikan dengan cara menunjukkan bahwa musik adalah bahasa universal; pola audio dari satu wilayah dapat ditemukan kemiripannya di belahan dunia lain menggunakan perhitungan matriks Cosine Similarity.
